@@ -1,0 +1,78 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotspotShare", "HotspotShare\HotspotShare.csproj", "{0E3633D3-28BE-42D9-807B-B4BC1A639709}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Setup", "Setup\Setup.isproj", "{FEC36CEC-C5DC-4306-AED2-1B0B1B874CAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		CD_ROM|x86 = CD_ROM|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		DVD-5|Any CPU = DVD-5|Any CPU
+		DVD-5|x86 = DVD-5|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+		SingleImage|Any CPU = SingleImage|Any CPU
+		SingleImage|x86 = SingleImage|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E3633D3-28BE-42D9-807B-B4BC1A639709}.CD_ROM|Any CPU.ActiveCfg = ReleaseTraced|Any CPU
+		{0E3633D3-28BE-42D9-807B-B4BC1A639709}.CD_ROM|Any CPU.Build.0 = ReleaseTraced|Any CPU
+		{0E3633D3-28BE-42D9-807B-B4BC1A639709}.CD_ROM|x86.ActiveCfg = ReleaseTraced|x86
+		{0E3633D3-28BE-42D9-807B-B4BC1A639709}.CD_ROM|x86.Build.0 = ReleaseTraced|x86
+		{0E3633D3-28BE-42D9-807B-B4BC1A639709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E3633D3-28BE-42D9-807B-B4BC1A639709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E3633D3-28BE-42D9-807B-B4BC1A639709}.Debug|x86.ActiveCfg = Debug|x86
+		{0E3633D3-28BE-42D9-807B-B4BC1A639709}.Debug|x86.Build.0 = Debug|x86
+		{0E3633D3-28BE-42D9-807B-B4BC1A639709}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E3633D3-28BE-42D9-807B-B4BC1A639709}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{0E3633D3-28BE-42D9-807B-B4BC1A639709}.DVD-5|x86.ActiveCfg = Debug|x86
+		{0E3633D3-28BE-42D9-807B-B4BC1A639709}.DVD-5|x86.Build.0 = Debug|x86
+		{0E3633D3-28BE-42D9-807B-B4BC1A639709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E3633D3-28BE-42D9-807B-B4BC1A639709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E3633D3-28BE-42D9-807B-B4BC1A639709}.Release|x86.ActiveCfg = Release|x86
+		{0E3633D3-28BE-42D9-807B-B4BC1A639709}.Release|x86.Build.0 = Release|x86
+		{0E3633D3-28BE-42D9-807B-B4BC1A639709}.SingleImage|Any CPU.ActiveCfg = SoftLock|Any CPU
+		{0E3633D3-28BE-42D9-807B-B4BC1A639709}.SingleImage|Any CPU.Build.0 = SoftLock|Any CPU
+		{0E3633D3-28BE-42D9-807B-B4BC1A639709}.SingleImage|x86.ActiveCfg = SoftLock|x86
+		{0E3633D3-28BE-42D9-807B-B4BC1A639709}.SingleImage|x86.Build.0 = SoftLock|x86
+		{FEC36CEC-C5DC-4306-AED2-1B0B1B874CAE}.CD_ROM|Any CPU.ActiveCfg = CD_ROM
+		{FEC36CEC-C5DC-4306-AED2-1B0B1B874CAE}.CD_ROM|Any CPU.Build.0 = CD_ROM
+		{FEC36CEC-C5DC-4306-AED2-1B0B1B874CAE}.CD_ROM|x86.ActiveCfg = CD_ROM
+		{FEC36CEC-C5DC-4306-AED2-1B0B1B874CAE}.CD_ROM|x86.Build.0 = CD_ROM
+		{FEC36CEC-C5DC-4306-AED2-1B0B1B874CAE}.Debug|Any CPU.ActiveCfg = DVD-5
+		{FEC36CEC-C5DC-4306-AED2-1B0B1B874CAE}.Debug|Any CPU.Build.0 = DVD-5
+		{FEC36CEC-C5DC-4306-AED2-1B0B1B874CAE}.Debug|x86.ActiveCfg = DVD-5
+		{FEC36CEC-C5DC-4306-AED2-1B0B1B874CAE}.Debug|x86.Build.0 = DVD-5
+		{FEC36CEC-C5DC-4306-AED2-1B0B1B874CAE}.DVD-5|Any CPU.ActiveCfg = DVD-5
+		{FEC36CEC-C5DC-4306-AED2-1B0B1B874CAE}.DVD-5|Any CPU.Build.0 = DVD-5
+		{FEC36CEC-C5DC-4306-AED2-1B0B1B874CAE}.DVD-5|x86.ActiveCfg = DVD-5
+		{FEC36CEC-C5DC-4306-AED2-1B0B1B874CAE}.DVD-5|x86.Build.0 = DVD-5
+		{FEC36CEC-C5DC-4306-AED2-1B0B1B874CAE}.Release|Any CPU.ActiveCfg = SingleImage
+		{FEC36CEC-C5DC-4306-AED2-1B0B1B874CAE}.Release|Any CPU.Build.0 = SingleImage
+		{FEC36CEC-C5DC-4306-AED2-1B0B1B874CAE}.Release|x86.ActiveCfg = SingleImage
+		{FEC36CEC-C5DC-4306-AED2-1B0B1B874CAE}.Release|x86.Build.0 = SingleImage
+		{FEC36CEC-C5DC-4306-AED2-1B0B1B874CAE}.SingleImage|Any CPU.ActiveCfg = SingleImage
+		{FEC36CEC-C5DC-4306-AED2-1B0B1B874CAE}.SingleImage|Any CPU.Build.0 = SingleImage
+		{FEC36CEC-C5DC-4306-AED2-1B0B1B874CAE}.SingleImage|x86.ActiveCfg = SingleImage
+		{FEC36CEC-C5DC-4306-AED2-1B0B1B874CAE}.SingleImage|x86.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		AssemblyInfoVersionSettings = 
+		AssemblyFileVersionSettings = 
+		AssemblyVersionSettings = None.None.DateStamp.Increment
+		UpdateAssemblyInfoVersion = False
+		UpdateAssemblyFileVersion = False
+		UpdateAssemblyVersion = True
+		AssemblyInfoFilePath = 
+		ConfigurationFilter = 
+	EndGlobalSection
+EndGlobal
