@@ -12,7 +12,7 @@ Although some software of this type have more features to use, Hotspoter works q
 
 
 # About This Project
-   I created this project when I was 12 years old, way back in 2013 using Visual Basic .NET. I was looking for an alternative to a popular shareware on the internet, they were asking $18 USD, which was a huge amount for me at that time, as I had a pocket money of only $10 USD/month. So, that need pushed me to come up with this.
+   I created this project when I was 12 years old, way back in 2013 using Visual C#. I was looking for an alternative to a popular shareware on the internet, they were asking $18 USD, which was a huge amount for me at that time, as I had a pocket money of only $10 USD/month. So, that need pushed me to come up with this.
 
 
 # As Featured On
