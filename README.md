@@ -1,5 +1,5 @@
 ![alt text](https://images.sftcdn.net/images/t_app-logo-l,f_auto/p/88ea9fca-9b53-11e6-8a76-00163ed833e7/678505331/undefined-logo.png)
-# Hotspoter-V4
+# Hotspoter-V5
 Hotspoter is special software that allows users to transform their computer into a wireless router. This is ideal for people who are looking for a way to use their existing internet connection to surf on their Smartphone, while the connection can also be shared with a large number of different people at the same time without weakening the signal strength.
 
 ![alt text](https://dl1.cbsistatic.com/i/2017/12/14/9d92fc78-cf74-4dca-be00-b0929c5a179b/5fb0cf39dd753c99288e4dd2e03e216e/8695ffbb30440a0e791346728b72637df4c322.png)
